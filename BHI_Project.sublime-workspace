@@ -1,0 +1,343 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"px",
+				"px-3"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"py",
+				"py-5"
+			],
+			[
+				"h",
+				"h4\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": ".gitignore",
+			"settings":
+			{
+				"buffer_size": 69,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 443.0,
+		"last_filter": "ins",
+		"selected_items":
+		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"material",
+				"Material Theme: Activate theme"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 629.0
+	},
+	"console":
+	{
+		"height": 171.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/D/Ismael Rivera/Projects/SAY_work_folder/BHI - Ballester Hermanos/5877 BHI - Tarjeta de Navidad Digital/import_redirect.js",
+		"/D/Ismael Rivera/Projects/SAY_work_folder/BHI - Ballester Hermanos/5877 BHI - Tarjeta de Navidad Digital/.gitignore",
+		"/D/Ismael Rivera/Projects/Portfolio/iroportfolio2018/package.json",
+		"/D/Ismael Rivera/Projects/Portfolio/iroportfolio2018/Gruntfile.js",
+		"/D/Ismael Rivera/Projects/Portfolio/iroportfolio2018/inc/css/bootstrap.css",
+		"/D/Ismael Rivera/Projects/SAY_work_folder/BHI - Ballester Hermanos/Ballester Fotos y Texto Calendario/import_redirect.js",
+		"/D/Ismael Rivera/Projects/Portfolio/iroportfolio2018/css/main.css",
+		"/D/Ismael Rivera/Projects/Portfolio/iroportfolio2018/inc/js/fullpage/fullpage.js",
+		"/D/Ismael Rivera/Projects/Portfolio/iroportfolio2018/inc/css/iroportfolio.css",
+		"/D/Ismael Rivera/Projects/Portfolio/iroportfolio2018/index.html",
+		"/D/Ismael Rivera/Projects/Portfolio/iroportfolio2018/inc/js/iroportfolio.js",
+		"/D/Ismael Rivera/Projects/Portfolio/iroportfolio2018/inc/scss/_variables.scss",
+		"/D/Ismael Rivera/Projects/Portfolio/iroportfolio2018/inc/scss/_grid.scss",
+		"/D/Ismael Rivera/Projects/Portfolio/iroportfolio2018/js/jquery.steps.min.js",
+		"/D/Ismael Rivera/Projects/Portfolio/iroportfolio2018/htm/css/style.css",
+		"/D/Ismael Rivera/Projects/Portfolio/iroportfolio2018/scrolloverflow.min.js.map",
+		"/D/Ismael Rivera/Projects/Portfolio/iroportfolio2018/assets/particles.json",
+		"/D/Ismael Rivera/Projects/Portfolio/iroportfolio2018/xtras/ScrollMagic-master/examples/advanced/anchor_link_scrolling.html",
+		"/D/Ismael Rivera/Projects/Portfolio/iroportfolio2018/inc/css/fullpage.css",
+		"/D/Ismael Rivera/Projects/Portfolio/iroportfolio2018/Checkout example for Bootstrap.html",
+		"/D/Ismael Rivera/Projects/Portfolio/iroportfolio2018/index_form.html",
+		"/D/Ismael Rivera/Projects/Portfolio/iroportfolio2018/horizontal-timeline-master/index.html",
+		"/D/Ismael Rivera/Projects/Portfolio/iroportfolio2018/contact_support.html",
+		"/C/Users/Ismael Rivera/Downloads/1539184319.layoutit.html",
+		"/C/Users/Ismael Rivera/Downloads/1539184402.layoutit.html",
+		"/D/Ismael Rivera/Projects/Portfolio/iroportfolio2018/inc/css/product.css",
+		"/D/portable_apps/Bitnami/apache2/conf/bitnami/bitnami.conf",
+		"/D/portable_apps/Bitnami/apps/phpmyadmin/htdocs/config.inc.php",
+		"/D/portable_apps/Bitnami/apache2/conf/httpd.conf",
+		"/D/portable_apps/Bitnami/apache2/htdocs/index.html",
+		"/D/Ismael Rivera/Projects/Portfolio/iroportfolio2018/package.js",
+		"/D/Ismael Rivera/Projects/Portfolio/iroportfolio2018/inc/js/assets/particles.json",
+		"/D/Ismael Rivera/CV2018_Package/call_center_cover_letter_02",
+		"/D/Ismael Rivera/CV2018_Package/call_center_cover_letter_01",
+		"/D/Ismael Rivera/Projects/Portfolio/iroportfolio2018/.babelrc.js",
+		"/D/Ismael Rivera/Projects/Portfolio/iroportfolio/index.php",
+		"/D/Ismael Rivera/Projects/Portfolio/iroportfolio/assets/js/main.js",
+		"/D/Ismael Rivera/Projects/Portfolio/iroportfolio/package.json",
+		"/D/Ismael Rivera/Projects/Portfolio/iroportfolio/assets/js/plugins.js",
+		"/D/Ismael Rivera/Projects/Portfolio/iroportfolio/Vagrantfile",
+		"/D/Ismael Rivera/Projects/Portfolio/iroportfolio/ui-grids.html",
+		"/D/Ismael Rivera/Projects/Portfolio/iroportfolio/index.html",
+		"/D/Ismael Rivera/Projects/Portfolio/iroportfolio/assets/js/lib/vector-map/jquery.vmap.min.js",
+		"/D/Ismael Rivera/Projects/Portfolio/iroportfolio/widgets.html",
+		"/D/Ismael Rivera/Projects/Portfolio/iroportfolio/assets/js/widgets.js",
+		"/D/Ismael Rivera/Projects/Portfolio/iroportfolio/assets/css/bootstrap.css",
+		"/D/Ismael Rivera/Projects/Portfolio/iroportfolio/index - Copy.html",
+		"/D/Ismael Rivera/Projects/Portfolio/iroportfolio/public_html/wp-config.php",
+		"/D/Ismael Rivera/Projects/Portfolio/iroportfolio/public_html/wp-config-sample.php",
+		"/C/Users/Ismael Rivera/Desktop/Gracias - Ivelisse",
+		"/D/python_vagrant_pull/Vagrantfile",
+		"/D/Ismael Rivera/Projects/iroportfolio.com/Vagrantfile",
+		"/D/gtlh_method/public/gitfiti.sh",
+		"/D/gtlh_method/clones/gitfiti.sh",
+		"/D/python_vagrant_pull/gitfiti-master/gitfiti.py",
+		"/D/gtlh_method/clones/bonfire.sh",
+		"/D/gtlh_method/clones/gitfiti-correction2-Louisiana-Silver.sh",
+		"/D/python_vagrant_pull/gitfiti-master/bonfire.sh",
+		"/D/python_vagrant_pull/public/gitfiti-correction.sh",
+		"/D/python_vagrant_pull/public/gitfiti.sh",
+		"/D/python_vagrant_pull/Bonfire-Navy-DELETE/bn_config_module.py",
+		"/D/python_vagrant_pull/gitfiti_new.sh",
+		"/D/python_vagrant_pull/public/gitfiti-correction2-Louisiana-Silver.sh",
+		"/D/python_vagrant_pull/public/Louisiana-Silver/gitfit",
+		"/D/python_vagrant_pull/Bonfire-Navy/gitfiti_new.sh",
+		"/D/python_vagrant_pull/Bonfire-Navy/gitfiti_last_fail.sh",
+		"/D/python_vagrant_pull/Bonfire-Navy/gitfiti.sh",
+		"/D/python_vagrant_pull/gitfiti-master/gitfiti.sh"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"fullpage",
+			"center",
+			"pre",
+			"part",
+			"sect5",
+			"fullpage",
+			"round",
+			"font",
+			"passw",
+			"gitfiti",
+			"codash_manager.py",
+			"codash_gen.py",
+			"git commit --amend --author='Ismael Rivera <coralblue79@gmail.com>' -C HEAD",
+			"codash_manager.py",
+			"git commit --amend --author='Ismael Rivera <coralblue79@gmail.com>' -m \"codash_manager.py\" > /dev/null",
+			"GIT_AUTHOR_DATE=2017-05-17T12:00:00 GIT_COMMITTER_DATE=2017-05-17T12:00:00 git commit --amend --author='Ismael Rivera <coralblue79@gmail.com>' -m \"codash_manager.py\" > /dev/null\n",
+			"GIT_AUTHOR_DATE=2017-05-02T12:00:00 GIT_COMMITTER_DATE=2017-05-02T12:00:00 git commit --amend --author='Ismael Rivera <coralblue79@gmail.com>' -C HEAD",
+			"--allow-empty",
+			"ammend",
+			"git commit --allow-empty -m \"codash_manager.py\" > /dev/null",
+			"gitfiti",
+			"TODAY"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"assets_mod.py",
+			"happy_loader.py",
+			"bn_config_module.py",
+			"git commit --amend --author='Ismael Rivera <coralblue79@gmail.com>'-m \"codash_gen.py\" -C HEAD",
+			"codash_gen.py",
+			"git commit --amend --author='Ismael Rivera <coralblue79@gmail.com>' -C HEAD",
+			"",
+			"amend",
+			"git commit --allow-empty --ammend --author='Ismael Rivera <coralblue79@gmail.com>' -m \"codash_manager.py\" > /dev/null",
+			"codash_manager.py"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": ".gitignore",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 69,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								69,
+								69
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": false,
+							"syntax": "Packages/zzz A File Icon zzz/aliases/Shell Script (Git).sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 40.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "BHI_Project.sublime-project",
+	"replace":
+	{
+		"height": 75.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 257.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
