@@ -1,0 +1,27 @@
+<h1>mothafucka!!!</h1>
+
+<script type="text/javascript">
+	function PrintElem(elem) {
+    Popup($(elem).html());
+}
+
+function Popup(data) {
+    var mywindow = window.open('', 'new div', 'height=400,width=600');
+    mywindow.document.write('<html><head><title></title>');
+    mywindow.document.write('<link rel="stylesheet" href="css/midday_receipt.css" type="text/css" />');
+    mywindow.document.write('</head>
+<script>alert("javascript is working");</script>
+<script type="text/javascript">alert("This is a new TAG. Working");</script>
+<script type="text/javascript">console.log("console.log is working");</script>
+
+    	<body >');
+    mywindow.document.write(data);
+    mywindow.document.write('</body></html>');
+
+    mywindow.print();
+    mywindow.close();
+
+    return true;
+}
+
+</script>

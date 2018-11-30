@@ -1,4 +1,11 @@
-/Ballester Fotos y Texto Calendario
+.DS_Store
+.idea
+.ignore/
+bower_components/
+node_modules/
+**/node_modules/
+package-lock.json
+src/fullpage.extensions.js
+examples/test**
+*.zip
 *.docx
-textdump.txt
-/node_modules

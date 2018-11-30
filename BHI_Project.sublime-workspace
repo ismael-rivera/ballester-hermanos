@@ -23,15 +23,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": ".gitignore",
-			"settings":
-			{
-				"buffer_size": 69,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -86,9 +77,22 @@
 	},
 	"expanded_folders":
 	[
+		"/D/Ismael Rivera/Projects/SAY_work_folder/BHI - Ballester Hermanos/5877 BHI - Tarjeta de Navidad Digital/ballester-hermanos"
 	],
 	"file_history":
 	[
+		"/D/Ismael Rivera/Projects/SAY_work_folder/BHI - Ballester Hermanos/5877 BHI - Tarjeta de Navidad Digital/ballester-hermanos/fullPage.js - Parallax Extension.html",
+		"/D/Ismael Rivera/Projects/SAY_work_folder/BHI - Ballester Hermanos/5877 BHI - Tarjeta de Navidad Digital/ballester-hermanos/index.html",
+		"/D/Ismael Rivera/Projects/SAY_work_folder/BHI - Ballester Hermanos/5877 BHI - Tarjeta de Navidad Digital/ballester-hermanos/index3.html",
+		"/D/Ismael Rivera/Projects/SAY_work_folder/BHI - Ballester Hermanos/5877 BHI - Tarjeta de Navidad Digital/ballester-hermanos/index2.html",
+		"/D/Ismael Rivera/Projects/SAY_work_folder/BHI - Ballester Hermanos/5877 BHI - Tarjeta de Navidad Digital/ballester-hermanos/js/main2.js",
+		"/D/Ismael Rivera/Projects/SAY_work_folder/BHI - Ballester Hermanos/5877 BHI - Tarjeta de Navidad Digital/ballester-hermanos/css/main2.css",
+		"/D/Ismael Rivera/Projects/SAY_work_folder/BHI - Ballester Hermanos/5877 BHI - Tarjeta de Navidad Digital/ballester-hermanos/css/main.css",
+		"/D/Ismael Rivera/Projects/SAY_work_folder/BHI - Ballester Hermanos/5877 BHI - Tarjeta de Navidad Digital/ballester-hermanos/js/main.js",
+		"/D/Ismael Rivera/Projects/Portfolio/iroportfolio2018/index.html",
+		"/D/Ismael Rivera/Projects/Portfolio/iroportfolio/index.php",
+		"/D/Ismael Rivera/Projects/SAY_work_folder/BHI - Ballester Hermanos/5877 BHI - Tarjeta de Navidad Digital/ballester-hermanos/img/.gitignore",
+		"/D/Ismael Rivera/Projects/SAY_work_folder/BHI - Ballester Hermanos/5877 BHI - Tarjeta de Navidad Digital/ballester-hermanos/.gitignore",
 		"/D/Ismael Rivera/Projects/SAY_work_folder/BHI - Ballester Hermanos/5877 BHI - Tarjeta de Navidad Digital/import_redirect.js",
 		"/D/Ismael Rivera/Projects/SAY_work_folder/BHI - Ballester Hermanos/5877 BHI - Tarjeta de Navidad Digital/.gitignore",
 		"/D/Ismael Rivera/Projects/Portfolio/iroportfolio2018/package.json",
@@ -98,7 +102,6 @@
 		"/D/Ismael Rivera/Projects/Portfolio/iroportfolio2018/css/main.css",
 		"/D/Ismael Rivera/Projects/Portfolio/iroportfolio2018/inc/js/fullpage/fullpage.js",
 		"/D/Ismael Rivera/Projects/Portfolio/iroportfolio2018/inc/css/iroportfolio.css",
-		"/D/Ismael Rivera/Projects/Portfolio/iroportfolio2018/index.html",
 		"/D/Ismael Rivera/Projects/Portfolio/iroportfolio2018/inc/js/iroportfolio.js",
 		"/D/Ismael Rivera/Projects/Portfolio/iroportfolio2018/inc/scss/_variables.scss",
 		"/D/Ismael Rivera/Projects/Portfolio/iroportfolio2018/inc/scss/_grid.scss",
@@ -124,7 +127,6 @@
 		"/D/Ismael Rivera/CV2018_Package/call_center_cover_letter_02",
 		"/D/Ismael Rivera/CV2018_Package/call_center_cover_letter_01",
 		"/D/Ismael Rivera/Projects/Portfolio/iroportfolio2018/.babelrc.js",
-		"/D/Ismael Rivera/Projects/Portfolio/iroportfolio/index.php",
 		"/D/Ismael Rivera/Projects/Portfolio/iroportfolio/assets/js/main.js",
 		"/D/Ismael Rivera/Projects/Portfolio/iroportfolio/package.json",
 		"/D/Ismael Rivera/Projects/Portfolio/iroportfolio/assets/js/plugins.js",
@@ -160,7 +162,7 @@
 	],
 	"find":
 	{
-		"height": 40.0
+		"height": 89.0
 	},
 	"find_in_files":
 	{
@@ -174,6 +176,11 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"download",
+			"downloads",
+			"actions",
+			"control-select",
+			"href",
 			"fullpage",
 			"center",
 			"pre",
@@ -223,38 +230,8 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": ".gitignore",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 69,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								69,
-								69
-							]
-						],
-						"settings":
-						{
-							"git_gutter_is_enabled": false,
-							"syntax": "Packages/zzz A File Icon zzz/aliases/Shell Script (Git).sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
 			]
 		}
 	],
@@ -264,7 +241,7 @@
 	},
 	"input":
 	{
-		"height": 0.0
+		"height": 88.0
 	},
 	"layout":
 	{
